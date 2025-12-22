@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <!-- Université Côte d'Azur Logo -->
+  <rect width="500" height="200" fill="white"/>
+  <text x="60" y="80" font-family="Arial, sans-serif" font-size="40" fill="#333">UNIVERSITÉ</text>
+  <text x="60" y="130" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="#0091D5">CÔTE D'AZUR</text>
+  <circle cx="400" cy="100" r="8" fill="#0091D5"/>
+  <circle cx="420" cy="85" r="6" fill="#0091D5"/>
+  <circle cx="420" cy="115" r="6" fill="#0091D5"/>
+  <circle cx="435" cy="70" r="5" fill="#0091D5"/>
+  <circle cx="435" cy="100" r="5" fill="#0091D5"/>
+  <circle cx="435" cy="130" r="5" fill="#0091D5"/>
+  <circle cx="450" cy="85" r="4" fill="#0091D5"/>
+  <circle cx="450" cy="115" r="4" fill="#0091D5"/>
+  <circle cx="380" cy="85" r="5" fill="#0091D5"/>
+  <circle cx="380" cy="115" r="5" fill="#0091D5"/>
+  <circle cx="365" cy="100" r="6" fill="#0091D5"/>
+</svg>
