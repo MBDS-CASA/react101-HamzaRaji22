@@ -11,7 +11,7 @@ function Student() {
   // État initial avec un étudiant aléatoire
   const [currentStudent, setCurrentStudent] = useState(getRandomStudent());
 
-  // Fonction pour changer d'étudiant
+  
   const handleNextStudent = () => {
     setCurrentStudent(getRandomStudent());
   };
